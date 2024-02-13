@@ -11,7 +11,9 @@ task are improved.
 Such vectors, once obtained, can be added or subtracted, leading to different results.
 
 In this project we use the [Hugging Face](https://huggingface.co/) pre-trained BERT model to train two errors detection models:
- - one focused on spelling only errors;
+ - one focused on spelling errors;
  - one focused on logical errors.
-Lastly we use tasks vectors in order to create a more general model able to detect both.
+
+
+Lastly we use tasks vectors in order to create from them a more general model able to detect both.
 
