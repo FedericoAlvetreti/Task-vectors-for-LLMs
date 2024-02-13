@@ -17,4 +17,4 @@ In this project we use the [Hugging Face](https://huggingface.co/) pre-trained B
 
 Lastly we use tasks vectors in order to generate a more general model able to detect both.
 
-[Link to Notebook]([https://gist.github.com/your-gist-id](https://colab.research.google.com/drive/1Tr5-uW1Imx5dvEInoL-TFrzBQfXitXng?usp=drive_link)https://colab.research.google.com/drive/1Tr5-uW1Imx5dvEInoL-TFrzBQfXitXng?usp=drive_link)
+[Link to Notebook](https://gist.github.com/FedericoAlvetreti/0bffb4a0e8e34831be17c3c852672445)
