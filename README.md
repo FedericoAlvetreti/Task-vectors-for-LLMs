@@ -15,5 +15,4 @@ In this project we use the [Hugging Face](https://huggingface.co/) pre-trained B
  - one focused on logical errors.
 
 
-Lastly we use tasks vectors in order to create from them a more general model able to detect both.
-
+Lastly we use tasks vectors in order to generate a more general model able to detect both.
